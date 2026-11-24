@@ -1,0 +1,18 @@
+
+# Downloaded videos
+downloads/
+*.mp4
+*.webm
+*.mkv
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
